@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548149827 source:d:\projets code..blocks\vecteurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1548149705 source:d:\projets code..blocks\vecteurs\fonction.c
+	"fonction.h"
+
+1548149793 d:\projets code..blocks\vecteurs\fonction.h
+
